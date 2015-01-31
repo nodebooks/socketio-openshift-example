@@ -1,5 +1,4 @@
 # socketio-openshift-example
-An example how to run socket.io with node.js in OpenShift and locally
 
 OpenShift websocket support demystified for application developers
 
