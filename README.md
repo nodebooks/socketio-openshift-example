@@ -10,7 +10,7 @@ Once you have registered to OpenShift and loaded all the necessary tools to your
 
 `rhc app create wsexample nodejs-0.10 --from-code https://github.com/nodebooks/socketio-openshift-example.git`
 
-Wait a moment and open your OpenShift app in your browser. See the example app running at [http://wsexample-nodebooks.rhcloud.com](http://wsexample-nodebooks.rhcloud.com)
+Wait a moment and open your OpenShift app in your browser.
 
 ## Run locally
 
