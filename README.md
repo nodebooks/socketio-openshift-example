@@ -14,7 +14,7 @@ Wait a moment and open your OpenShift app in your browser. See the example app r
 ## Run locally
 
 ```
-git clone https://github.com/nodebooks/socketio-openshift-example.git wsexample`
+git clone https://github.com/nodebooks/socketio-openshift-example.git wsexample
 cd wsexample
 npm install
 node server.js # or nodejs server.js in some Ubuntu releases
