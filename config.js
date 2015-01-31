@@ -1,6 +1,5 @@
 var Config = {
-  // Contents of this file will be send to the client,
-  // do not put any hazardous data here
+  // Contents of this file will be send to the client
   "domain":     process.env.OPENSHIFT_APP_DNS || '127.0.0.1',
 
   "serverip":   process.env.OPENSHIFT_NODEJS_IP || '127.0.0.1',
