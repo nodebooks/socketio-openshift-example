@@ -34,7 +34,7 @@ Client.prototype.connect = function() {
 
   // Handle connection event
   this.socket.on('connect', function () { 
-    console.log("Websocket 'connected' event with id:", self.socket);
+    console.log("Websocket 'connected' event with params:", self.socket);
     document.getElementById('top').innerHTML = "Connected.";
   });
 
