@@ -23,4 +23,4 @@ cd wsexample
 npm install
 node server.js # or nodejs server.js in some Ubuntu releases
 ```
-Now open the 
+Now open your browser on [http://127.0.0.1:8080](http://127.0.0.1:8080)
