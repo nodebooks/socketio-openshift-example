@@ -14,7 +14,7 @@ Wait a moment and open your OpenShift app in your browser.
 
 ## Run locally
 
-Here are the console commands for Ubuntu Linux and/or Mac OS X with relevant tools installed. The first command `cd ~` swtiches to your home directory, skip this if you want to install to some other dir.
+Here are the console commands for Ubuntu Linux and/or Mac OS X with relevant tools installed. The first command `cd ~` switches to your home directory, skip this if you want to install to some other dir.
 
 ```
 cd ~
